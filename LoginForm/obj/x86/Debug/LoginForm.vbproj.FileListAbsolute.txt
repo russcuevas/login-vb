@@ -7,3 +7,4 @@ c:\users\lab 5\documents\visual studio 2010\Projects\LoginForm\LoginForm\obj\x86
 c:\users\lab 5\documents\visual studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.exe
 c:\users\lab 5\documents\visual studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.xml
 c:\users\lab 5\documents\visual studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.pdb
+c:\users\lab 5\documents\visual studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.Form2.resources

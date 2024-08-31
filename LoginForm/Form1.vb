@@ -20,6 +20,9 @@
                 process = False
                 retry = 0
                 MsgAttempt.Text = ""
+                Dim form2 As New Form2
+                form2.Show()
+                Me.Hide()
             Else
                 MsgBox("Wrong Information, Please Try Again")
                 MsgAttempt.Text = "Attempts: " & (MaxAttempts - retry) & " attempts remaining"
